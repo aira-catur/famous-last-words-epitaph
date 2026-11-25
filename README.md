@@ -2,6 +2,8 @@
 
 A deterministic Python 3 entry for [Famous Last Words: The Funniest Epitaph](https://make.fun/bounty/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406) on make.fun. The program writes a single one-line tombstone epitaph — the funniest famous last words it can carve in stone, well under the 150-character limit — to `entry.txt`, with no trailing newline.
 
+Entry note: the epitaph is a first-person last line with a double meaning — the speaker announces the wire is dead and is wrong only about which of them was.
+
 ## Running
 
 The readable source is `entry_source.py`; the submitted entrypoint is `main.py`, produced from it with the official make.fun `compress` command.
